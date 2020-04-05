@@ -1,0 +1,2 @@
+path.data: /tmp/logstash/lib
+path.logs: /tmp/logstash/log

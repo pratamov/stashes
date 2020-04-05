@@ -1,0 +1,2 @@
+# - pipeline.id: 
+#   path.config: "/itguy/stashes/logstash-idx/conf.d/stock-idx-list.conf"
